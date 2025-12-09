@@ -16,7 +16,7 @@ This repository contains a self-contained tutorial that compares three Support V
 - `LICENSE`  
   Repository licence (e.g. MIT).
   
-- `Read.me`  
+- `README.MD`  
   
 ## How to run the notebook
 

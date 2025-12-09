@@ -13,18 +13,6 @@ This repository contains a self-contained tutorial that compares three Support V
 - `svm_kernels_report.pdf`  
   Short written tutorial/report exported from the notebook, suitable for course submission.
 
-- `svm_kernel_results.csv`  
-  Summary table of test accuracy for each kernel.
-
-- `svm_linear_kernel_boundary.png`  
-  Linear SVM decision-boundary plot.
-
-- `svm_rbf_kernel_boundary.png`  
-  RBF SVM decision-boundary plot.
-
-- `svm_poly_deg3_kernel_boundary.png`  
-  Degree-3 polynomial SVM decision-boundary plot.
-
 - `LICENSE`  
   Repository licence (e.g. MIT).
 
